@@ -1,13 +1,15 @@
 h1 {
     color: blue;
-    padding-left: 50%;
-    padding-top: 20px;
+    padding-left: auto;
+    padding-top: auto;
+    text-align: center;
     font-family: 'Andale Mono', monospace;
 }
 
 h2 {
-    padding-left: 45%;
-    padding-bottom: 50px;
+    padding-left: auto;
+    padding-top: auto;
+    text-align: center;
     font-family: 'Dancing Script', serif;
     font-size: x-large;
 }
